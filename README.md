@@ -1,7 +1,3 @@
-Got it! Here's the complete and beautifully formatted `README.md` content — ready for you to copy and paste directly into your GitHub repo:
-
----
-
 
 # 🌐 Harendra Prajapati - Full Stack Portfolio
 
